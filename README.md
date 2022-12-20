@@ -6,7 +6,8 @@ This app demonstrates how the back end aspect of a store could work. There are m
 npm i, dotenv, express, mysql2, and sequelize.
 
 # Usage
-N/A
+screen shot videolink: 
+https://drive.google.com/file/d/1wLa_-xs2YdNi-1nXB3BOODP2i1HjIqD9/view?usp=sharing
 
 # License
 This project is licensed under the MIT License
